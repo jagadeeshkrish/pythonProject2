@@ -36,3 +36,16 @@ square, cube = calculate_square_cube(number)
 print(f"The square of {number} is {square}")
 
 print(f"The cube of {number} is {cube}")
+
+
+#Create a program that takes two numbers as input and prints whether the first number is greater than, less than, or equal to the second number.
+
+def compare_two_numbers(a,b):
+    if a>b:
+        print("a is greater than b")
+    elif a<b:
+        print("a is less than b")
+    else:
+        print("a is equal to b")
+
+compare_two_numbers(2,4)
