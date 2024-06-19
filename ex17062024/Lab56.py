@@ -11,6 +11,7 @@ for i in range(1,n+1):
 
 print(factorial)
 
+factorial=1
 while n>0:
     factorial = factorial*n
     n=n-1
