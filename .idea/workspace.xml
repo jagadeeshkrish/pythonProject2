@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c5cd60e-d66f-4021-8d82-9e0ed5d14ab9" name="Changes" comment="Decorators and Dictionary">
-      <change afterPath="$PROJECT_DIR$/Task/Task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex05072024/Lab76.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex22072024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex22072024/test_Lab1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex22072024/test_Lab2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex22072024/test_Lab3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex24072024/test_Lab4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex24072024/test_Lab5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex24072024/test_Lab7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex24072024/test_Lab6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex24072024/test_Lab6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +36,9 @@
     &quot;accountId&quot;: &quot;a139f24e-8689-4e59-b970-e3ae2d5c9a63&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -55,6 +52,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in test_Lab6.py.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
@@ -120,29 +118,7 @@
       <recent name="C:\Users\jagad\PycharmProjects\pythonProject2\ex05062024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_Lab11">
-    <configuration name="Lab75" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex21062024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex21062024/Lab75.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Python tests in test_Lab6.py">
     <configuration name="Lab76" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject2" />
       <option name="ENV_FILES" value="" />
@@ -253,13 +229,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in test_Lab6.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex24072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ex24072024/test_Lab6.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in test_Lab6.py" />
         <item itemvalue="Python.test_Lab11" />
         <item itemvalue="Python.test_Lab1" />
         <item itemvalue="Python.Lab76" />
         <item itemvalue="Python.Lab76" />
-        <item itemvalue="Python.Task3" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +342,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718938028232</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Decorators and Dictionary">
+      <option name="closed" value="true" />
+      <created>1724694846067</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724694846067</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
