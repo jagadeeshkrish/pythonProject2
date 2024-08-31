@@ -4,10 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c5cd60e-d66f-4021-8d82-9e0ed5d14ab9" name="Changes" comment="Decorators and Dictionary">
-      <change afterPath="$PROJECT_DIR$/ex24072024/test_Lab7.py" afterDir="false" />
+    <list default="true" id="1c5cd60e-d66f-4021-8d82-9e0ed5d14ab9" name="Changes" comment="All the CRED">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex26072024/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex26072024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex26072024/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex26072024/test_Lab10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex26072024/test_Lab11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex26072024/test_Lab12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex26072024/test_Lab13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex26072024/test_Lab14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex26072024/test_Lab15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex26072024/test_Lab16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex26072024/test_Lab8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex26072024/test_Lab9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex26072024/testdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex26072024/userdata.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex24072024/test_Lab6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex24072024/test_Lab6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,66 +63,74 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in test_Lab6.py.executor": "Run",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab01.executor": "Run",
-    "Python.Lab010.executor": "Run",
-    "Python.Lab02.executor": "Run",
-    "Python.Lab03.executor": "Run",
-    "Python.Lab05.executor": "Run",
-    "Python.Lab07.executor": "Run",
-    "Python.Lab08.executor": "Run",
-    "Python.Lab09.executor": "Run",
-    "Python.Lab11.executor": "Run",
-    "Python.Lab12.executor": "Run",
-    "Python.Lab13.executor": "Run",
-    "Python.Lab31.executor": "Run",
-    "Python.Lab32.executor": "Run",
-    "Python.Lab33.executor": "Run",
-    "Python.Lab34.executor": "Run",
-    "Python.Lab35.executor": "Run",
-    "Python.Lab41.executor": "Run",
-    "Python.Lab42.executor": "Run",
-    "Python.Lab43.executor": "Run",
-    "Python.Lab44.executor": "Run",
-    "Python.Lab45.executor": "Run",
-    "Python.Lab46.executor": "Run",
-    "Python.Lab51.executor": "Run",
-    "Python.Lab52.executor": "Run",
-    "Python.Lab53.executor": "Run",
-    "Python.Lab54.executor": "Run",
-    "Python.Lab55.executor": "Run",
-    "Python.Lab56.executor": "Run",
-    "Python.Lab61.executor": "Run",
-    "Python.Lab62.executor": "Run",
-    "Python.Lab63.executor": "Run",
-    "Python.Lab64.executor": "Run",
-    "Python.Lab65.executor": "Run",
-    "Python.Lab66.executor": "Run",
-    "Python.Lab71.executor": "Run",
-    "Python.Lab72.executor": "Run",
-    "Python.Lab74.executor": "Run",
-    "Python.Lab75.executor": "Run",
-    "Python.Lab76.executor": "Run",
-    "Python.Lab77.executor": "Run",
-    "Python.Task1.executor": "Run",
-    "Python.Task2.executor": "Run",
-    "Python.Task3.executor": "Run",
-    "Python.Test.executor": "Run",
-    "Python.test_Lab1.executor": "Run",
-    "Python.test_Lab11.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/jagad/PycharmProjects/pythonProject2/ex24072024",
-    "settings.editor.selected.configurable": "project.scopes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in test_Lab10.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab11.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab12.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab14.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab16.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab6.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab8.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab9.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab31.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab32.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab33.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab34.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab41.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab42.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab43.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab44.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab45.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab46.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab51.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab52.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab53.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab54.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab55.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab56.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab61.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab62.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab63.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab64.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab65.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab66.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab71.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab72.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab74.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab75.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab76.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab77.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_Lab1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_Lab11.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jagad/PycharmProjects/pythonProject2/ex26072024&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jagad\PycharmProjects\pythonProject2\ex26072024" />
       <recent name="C:\Users\jagad\PycharmProjects\pythonProject2\ex24072024" />
       <recent name="C:\Users\jagad\PycharmProjects\pythonProject2\ex22072024" />
     </key>
@@ -118,139 +139,89 @@
       <recent name="C:\Users\jagad\PycharmProjects\pythonProject2\ex05062024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_Lab6.py">
-    <configuration name="Lab76" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05072024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05072024/Lab76.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab76" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex05072024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jagad\PycharmProjects\pythonProject2\ex05072024\Lab76.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_Lab1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex22072024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex22072024/test_Lab1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_Lab11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex22072024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex22072024/test_Lab11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in test_Lab6.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in test_Lab16.py">
+    <configuration name="Python tests in test_Lab10.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex24072024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex26072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/ex24072024/test_Lab6.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ex26072024/test_Lab10.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_Lab11.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex26072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ex26072024/test_Lab11.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_Lab12.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex26072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ex26072024/test_Lab12.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_Lab14.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex26072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ex26072024/test_Lab14.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_Lab16.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex26072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ex26072024/test_Lab16.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in test_Lab6.py" />
-        <item itemvalue="Python.test_Lab11" />
-        <item itemvalue="Python.test_Lab1" />
-        <item itemvalue="Python.Lab76" />
-        <item itemvalue="Python.Lab76" />
+        <item itemvalue="Python tests.Python tests in test_Lab16.py" />
+        <item itemvalue="Python tests.Python tests in test_Lab14.py" />
+        <item itemvalue="Python tests.Python tests in test_Lab12.py" />
+        <item itemvalue="Python tests.Python tests in test_Lab11.py" />
+        <item itemvalue="Python tests.Python tests in test_Lab10.py" />
       </list>
     </recent_temporary>
   </component>
@@ -350,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724694846067</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="All the CRED">
+      <option name="closed" value="true" />
+      <created>1724777327959</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724777327959</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -362,6 +341,7 @@
     <MESSAGE value="functions" />
     <MESSAGE value="Lambda functions" />
     <MESSAGE value="Decorators and Dictionary" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decorators and Dictionary" />
+    <MESSAGE value="All the CRED" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the CRED" />
   </component>
 </project>
